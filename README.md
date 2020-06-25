@@ -2,7 +2,7 @@
 
 
 
-Implementation of "Counterfactual Propagation for Semi-SupervisedIndividual Treatment Effect Estimation".
+Implementation of "Counterfactual Propagation for Semi-Supervised Individual Treatment Effect Estimation".
 
 - README.md: this
 - requirements.txt: required packages
